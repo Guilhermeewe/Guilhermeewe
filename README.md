@@ -9,6 +9,6 @@ Based in Vitória, ES;<br>
 - 🌍 I'm mostly active within the **Java Community**
 - 💬 `ping` me about **Web & Backend Development, Cloud and Java**
 - 📫 How to reach me: [guilhermesarnaglia2@gmail.com](mailto:guilhermesarnaglia2@gmail.com)
-- ☕ Socials: <a href="https://linkedin.com/in/https://www.linkedin.com/in/guilhermefrancisco453/">LinkedIn</a>
+- ☕ Socials: <a href="https://www.linkedin.com/in/guilhermefrancisco453/">LinkedIn</a>
 
 ---
