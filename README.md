@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Backend Developer by day ☼ and Open Source Contributor by night ☾
+#### Backend Developer
 I am a Backend Developer, building systems with Java, Spring Boot, and Node.js. I enjoy bridging the gap between complex logic and seamless user experiences, i'm particularly passionate about system design and developing high-availability architectures that solve real-world problems.
 
 Based in Vitória, ES;<br>
